@@ -3,5 +3,5 @@
 =======|=======|=======|
 name|age|class
 ```yaml
-name : git init
+git init
 ```
