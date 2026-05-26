@@ -1,7 +1,7 @@
 # to check is this public or not
 ## first make git init
-----|---|-----|
-name|age|class|
+|----|---|-----|
+|name|age|class|
 ```yaml
 git init
 ```
