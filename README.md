@@ -1,8 +1,8 @@
 # to check is this public or not
 ## first make git init
-|----|:---:|-----:|
-
-|name|age|class|
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
 ```yaml
 git init
 ```
