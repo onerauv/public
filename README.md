@@ -1,4 +1,4 @@
-# to check is this public or not
+# Git
 ## git init
 ```yaml
 git init
