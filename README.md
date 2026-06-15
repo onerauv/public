@@ -7,10 +7,6 @@ git config --global user.name ""
 git config --global user.email ""
 ```
 
-## git init
-```init
-git init
-```
 ## git clone
 ```clone
 git clone <link>
@@ -24,7 +20,21 @@ git status
 ```
 git add "file-name"
 ```
-# commit
+## commit
 ```
 git commit -m 'update file'
+```
+## when make a new local repo
+
+## git init
+```init
+git init
+```
+## connect remote to local 
+```connect
+git remote add origin <link>
+```
+## git remote set
+```set
+git remote origin main
 ```
