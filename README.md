@@ -50,6 +50,13 @@ git branch
 ```modify
 git branch -M main
 ```
+## new branch
+```new
+git checkout -b <new-branch>
+```
+```new2
+git branch <new-branch>
+```
 ## branch change or navigate
 ```change
 git checkout <branch-name>
