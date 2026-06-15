@@ -38,7 +38,7 @@ git remote add origin <link>
 ```set
 git remote rename origin new-name
 ```
-## check
+## to check remote
 ```check
 git remote -v
 ```
