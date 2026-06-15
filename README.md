@@ -15,6 +15,10 @@ git init
 ```clone
 git clone <link>
 ```
+## git status
+```status
+git status
+```
 
 ## add file
 ```
