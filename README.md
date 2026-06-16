@@ -58,7 +58,7 @@ git checkout -b <new-branch>
 git branch <new-branch>
 ```
 ```new3
-git switch -c my-branch
+git checkout -b my-branch
 ```
 ```new4
 git switch -c my-branch
