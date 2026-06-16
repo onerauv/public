@@ -46,9 +46,12 @@ git remote -v
 ```check
 git branch
 ```
-## branch modify or name change
+## branch rename
 ```modify
 git branch -M main
+```
+```modify2
+git branch -m old-name new-name
 ```
 ## new branch
 ```new
