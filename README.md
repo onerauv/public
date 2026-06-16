@@ -74,3 +74,7 @@ git checkout <branch-name>
 ```del
 git branch -d <branch-name>
 ```
+## force delete a branch
+```del
+git branch -D <branch-name>
+```
