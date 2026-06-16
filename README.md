@@ -40,5 +40,24 @@ git remote rename origin new-name
 ```
 ## to check remote verfiy
 ```check
- git remote -v
+git remote -v
+```
+## branch check
+```check
+git branch
+```
+## branch modify or name change
+```modify
+git branch -M main
+```
+## new branch
+```new
+git checkout -b <new-branch>
+```
+```new2
+git branch <new-branch>
+```
+## branch change or navigate
+```change
+git checkout <branch-name>
 ```
