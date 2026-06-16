@@ -57,7 +57,7 @@ git checkout -b <new-branch>
 ```new2
 git branch <new-branch>
 ```
-## branch change or navigate
+## branch change or navigate ( change branch)
 ```change
 git checkout <branch-name>
 ```
