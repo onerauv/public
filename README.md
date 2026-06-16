@@ -61,3 +61,7 @@ git branch <new-branch>
 ```change
 git checkout <branch-name>
 ```
+## delete a branch
+```del
+git branch -d <branch-name>
+```
