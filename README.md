@@ -1,4 +1,4 @@
-# Git
+# The Full Command Line Of `Git`
 ## user.name and user.email
 ```
 git config --global user.name ""
