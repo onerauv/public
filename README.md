@@ -78,7 +78,7 @@ git branch -d <branch-name>
 ```del
 git branch -D <branch-name>
 ```
-## delete a branch for github
+## delete branch for github
 ```del
 git push origin --delete branch-name
 ```
