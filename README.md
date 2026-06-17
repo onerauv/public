@@ -78,3 +78,13 @@ git branch -d <branch-name>
 ```del
 git branch -D <branch-name>
 ```
+## reset commit
+```commit
+git reset <commit>
+```
+```commit2
+git reset --soft <commit>
+```
+```hard
+git reset --hard <commit>
+```
