@@ -32,11 +32,11 @@ git init
 ```
 ## connect remote to local 
 ```connect
-git remote add origin <link>
+git remote add origin (this is name of remote link) <github-link>
 ```
 ## git remote set
 ```set
-git remote rename origin new-name
+git remote rename origin (old remote link) <new-name>
 ```
 ## to check remote verfiy
 ```check
