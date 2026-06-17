@@ -78,6 +78,10 @@ git branch -d <branch-name>
 ```del
 git branch -D <branch-name>
 ```
+## delete a branch for github
+```del
+git push origin --delete branch-name
+```
 ## reset commit
 ```commit
 git reset <commit>
