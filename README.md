@@ -34,7 +34,7 @@ git init
 ```connect
 git remote add origin <github-link>
 ```
-## git remote set
+## git remote rename
 ```set
 git remote rename origin <new-name>
 ```
