@@ -60,6 +60,7 @@ git checkout -b <new-branch>
 ```new2
 git branch <new-branch>
 ```
+## create new branch and checkout / switch
 ```new3
 git checkout -b my-branch
 ```
