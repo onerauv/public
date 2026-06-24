@@ -71,6 +71,9 @@ git switch -c my-branch
 ```change
 git checkout <branch-name>
 ```
+```switch
+git switch <branch-name>
+```
 ## delete a branch
 ```del
 git branch -d <branch-name>
