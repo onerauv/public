@@ -1,4 +1,4 @@
-# The Full Command Line Of Git
+# The Full Command Line Of Git [ Git Course ]
 ## user.name and user.email
 ```
 git config --global user.name ""
