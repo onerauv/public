@@ -86,3 +86,13 @@ git branch -D <branch-name>
 ```del
 git push origin --delete branch-name
 ```
+## reset commit
+```commit
+git reset <commit>
+```
+```commit2
+git reset --soft <commit>
+```
+```hard
+git reset --hard <commit>
+```
